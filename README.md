@@ -209,9 +209,9 @@ Building practical AI-powered robotic solutions for real-world applications.
 
 ## 🤝 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [bharatsinghsondhiya4@gmail.com](mailto:your-email@example.com)
 
-💼 LinkedIn: Your LinkedIn URL
+💼 LinkedIn: https://www.linkedin.com/in/bharat-singh-sondhiya-3a0318280/
 
 🌐 Portfolio: Coming Soon
 
