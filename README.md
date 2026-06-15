@@ -18,8 +18,6 @@ I am currently pursuing a degree in **Artificial Intelligence & Data Analytics**
 
 🌐 Full Stack Development
 
-📊 Data Analytics
-
 🚀 Entrepreneurship
 
 🔬 Robotics & Automation
@@ -44,8 +42,6 @@ My long-term vision is to build impactful technology products that solve real-wo
 ### Programming Languages
 
 💻 JavaScript
-
-💻 C++
 
 💻 Python
 
@@ -101,8 +97,6 @@ My long-term vision is to build impactful technology products that solve real-wo
 
 📋 Postman
 
-☁️ Cloud Technologies (Learning)
-
 ---
 
 ## 📚 Currently Learning
@@ -117,33 +111,15 @@ My long-term vision is to build impactful technology products that solve real-wo
 
 🌱 AI Agent Development
 
-🌱 Robotics & Automation
-
----
-
-## 🚀 Dream Projects
-
-### 🤖 AI-Powered Universal Purchase Guide System (UPGS)
-
-Helping users discover the best products using AI-driven recommendations and trust scoring.
-
-### 🧠 AI Business Agents
-
-Creating intelligent virtual agents capable of automating business operations.
-
-### 🌍 Future Robotics Company
-
-Building practical AI-powered robotic solutions for real-world applications.
-
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharatsinghsondhiya\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Bharatsinghsondhiya=YOUR_USERNAME\&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bharatsinghsondhiya)
 
 ---
 
@@ -181,31 +157,9 @@ Building practical AI-powered robotic solutions for real-world applications.
 
 🔹 Technology Innovation
 
----
-
-## 📈 2026 Goals
-
-☑ Build multiple portfolio projects
-
-☑ Contribute to open source
-
-☑ Secure software development internship
-
-☑ Improve DSA skills
-
-☑ Master MERN Stack
-
-☑ Develop AI-powered applications
-
-☑ Launch first startup MVP
-
----
-
 ## 💡 Favorite Quote
 
 > "The best way to predict the future is to create it."
-
----
 
 ## 🤝 Connect With Me
 
