@@ -4,23 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Building+Technology+for+the+Future;AI+%7C+Software+Engineering+%7C+Startups;Learning+Every+Day+%F0%9F%9A%80" />
 
----
-
 ## 👨‍💻 About Me
 
 Hello! I'm **Bharat Singh Sondhiya**, a passionate technology enthusiast from India 🇮🇳.
 
 I am currently pursuing a degree in **Artificial Intelligence & Data Analytics** while exploring the worlds of:
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-🌐 Full Stack Development
-
-🚀 Entrepreneurship
-
-🔬 Robotics & Automation
 
 My long-term vision is to build impactful technology products that solve real-world problems and improve the lives of millions of people.
 
@@ -34,44 +22,6 @@ My long-term vision is to build impactful technology products that solve real-wo
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bharatsinghsondhiya)
 
 ---
-
-## 🏆 Personal Principles
-
-✨ Learn continuously
-
-✨ Build consistently
-
-✨ Focus on long-term vision
-
-✨ Solve meaningful problems
-
-✨ Stay curious
-
-✨ Create value before seeking rewards
-
----
-
-## 🌎 Areas of Interest
-
-🔹 Artificial Intelligence
-
-🔹 Software Engineering
-
-🔹 Data Science
-
-🔹 Robotics
-
-🔹 Startup Building
-
-🔹 Product Development
-
-🔹 Business Strategy
-
-🔹 Technology Innovation
-
-## 💡 Favorite Quote
-
-> "The best way to predict the future is to create it."
 
 ## 🤝 Connect With Me
 
