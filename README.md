@@ -11,14 +11,6 @@ Hello! I'm **Bharat Singh Sondhiya**, a passionate technology enthusiast from In
 I am currently pursuing a degree in **Artificial Intelligence & Data Analytics** while exploring the worlds of:
 
 My long-term vision is to build impactful technology products that solve real-world problems and improve the lives of millions of people.
-
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharatsinghsondhiya&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatsinghsondhiya&layout=compact)
-
 ## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharatsinghsondhiya&show_icons=true)
