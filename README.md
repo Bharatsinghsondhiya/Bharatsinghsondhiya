@@ -1,5 +1,4 @@
-# Bharat Singh Sondhiya
-
+<h1 align="center">Bharat Singh Sondhiya</h1>
 ### AI Enthusiast | Software Developer | Future Entrepreneur | Innovation Explorer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Building+Technology+for+the+Future;AI+%7C+Software+Engineering+%7C+Startups;Learning+Every+Day+%F0%9F%9A%80" />
