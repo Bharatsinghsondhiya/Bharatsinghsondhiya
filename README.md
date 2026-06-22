@@ -18,7 +18,7 @@ My long-term vision is to build impactful technology products that solve real-wo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharatsinghsondhiya&show_icons=true)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bharatsinghsondhiya&cache_seconds=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bharatsinghsondhiya&cache_seconds=0)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatsinghsondhiya&layout=compact)
@@ -27,9 +27,6 @@ My long-term vision is to build impactful technology products that solve real-wo
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharatsinghsondhiya&theme=github)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bharatsinghsondhiya&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bharatsinghsondhiya&theme=github)
 ## 🤝 Connect With Me
 
 📧 Email: [bharatsinghsondhiya4@gmail.com](mailto:your-email@example.com)
