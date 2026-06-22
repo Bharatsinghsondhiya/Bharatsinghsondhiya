@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bharat Singh Sondhiya</h1>
+<h1 align="center">Hi , I'm Bharat Singh Sondhiya</h1>
 
 <h3 align="center">AI Enthusiast • Software Developer • Future Entrepreneur • Innovation Explorer</h3>
 
@@ -6,14 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Building+Technology+for+the+Future;AI+%7C+Software+Engineering+%7C+Startups;Learning+Every+Day+%F0%9F%9A%80" />
 </p>
 
- ## 👨‍💻 About Me
+ ##  About Me
 
 Hello! I'm **Bharat Singh Sondhiya**, a passionate technology enthusiast from India 🇮🇳.
 
 I am currently pursuing a degree in **Artificial Intelligence & Data Analytics** while exploring the worlds of:
 
 My long-term vision is to build impactful technology products that solve real-world problems and improve the lives of millions of people.
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharatsinghsondhiya&show_icons=true)
 
