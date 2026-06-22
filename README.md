@@ -38,6 +38,4 @@ My long-term vision is to build impactful technology products that solve real-wo
 
 🌐 Portfolio: Coming Soon
 
----
 
-⭐ Thanks for visiting my profile! If you like my work, consider following my journey as I learn, build, and innovate.
