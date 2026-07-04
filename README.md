@@ -10,7 +10,7 @@
 
 Hello! I'm **Bharat Singh Sondhiya**, a passionate technology enthusiast from India 🇮🇳.
 
-I am currently pursuing a degree in **Artificial Intelligence & Data Analytics** while exploring the worlds of:
+I am currently pursuing a degree in **Artificial Intelligence & Data Analytics** 
 
 My long-term vision is to build impactful technology products that solve real-world problems and improve the lives of millions of people.
 ##  GitHub Analytics
