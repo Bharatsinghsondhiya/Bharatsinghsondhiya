@@ -8,7 +8,7 @@
 
  ##  About Me
 
-Hello! I'm **Bharat Singh Sondhiya**, a passionate technology enthusiast from India 🇮🇳.
+Hello! I'm **Bharat Singh Sondhiya**, a passionate technology enthusiast from India 🇮🇳 .
 
 I am currently pursuing a degree in **Artificial Intelligence & Data Analytics** 
 
