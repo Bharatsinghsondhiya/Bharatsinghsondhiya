@@ -26,7 +26,7 @@ My long-term vision is to build impactful technology products that solve real-wo
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharatsinghsondhiya&theme=github)
 
-## 🤝 Connect With Me
+## 🤝  Connect With Me
 
 📧 Email: [bharatsinghsondhiya4@gmail.com](mailto:your-email@example.com)
 
