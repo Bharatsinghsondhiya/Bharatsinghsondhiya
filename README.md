@@ -15,13 +15,6 @@ I am currently pursuing a degree in **Artificial Intelligence & Data Analytics**
 My long-term vision is to build impactful technology products that solve real-world problems and improve the lives of millions of people.
 ##  GitHub Analytics
 
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Bharatsinghsondhiya&cache_seconds=1)
-
-
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharatsinghsondhiya&theme=github)
 
 ## 🤝  Connect With Me
