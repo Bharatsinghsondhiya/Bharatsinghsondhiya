@@ -17,12 +17,10 @@ My long-term vision is to build impactful technology products that solve real-wo
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bharatsinghsondhiya&cache_seconds=0)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bharatsinghsondhiya&cache_seconds=1)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatsinghsondhiya&layout=compact)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharatsinghsondhiya)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharatsinghsondhiya&theme=github)
 
